@@ -1,4 +1,4 @@
-# Hi 👋, I'm Theerthana Venkatachalam
+# Hi 👋, I'm Theerthana V
 
 ### 💻 Aspiring Software Developer | Java Developer
 
